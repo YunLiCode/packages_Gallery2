@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/editor_fixedframe_frame_selection" android:title="@string/editor_fixedframe_frame_selection">
+        <menu>
+            <item android:id="@id/editor_fixedframe_hp_frame_00" android:title="@string/editor_fixedframe_hp_frame_00" />
+            <item android:id="@id/editor_fixedframe_hp_frame_01" android:title="@string/editor_fixedframe_hp_frame_01" />
+            <item android:id="@id/editor_fixedframe_hp_frame_02" android:title="@string/editor_fixedframe_hp_frame_02" />
+            <item android:id="@id/editor_fixedframe_hp_frame_03" android:title="@string/editor_fixedframe_hp_frame_03" />
+            <item android:id="@id/editor_fixedframe_hp_frame_04" android:title="@string/editor_fixedframe_hp_frame_04" />
+            <item android:id="@id/editor_fixedframe_hp_frame_05" android:title="@string/editor_fixedframe_hp_frame_05" />
+            <item android:id="@id/editor_fixedframe_hp_frame_06" android:title="@string/editor_fixedframe_hp_frame_06" />
+            <item android:id="@id/editor_fixedframe_hp_frame_07" android:title="@string/editor_fixedframe_hp_frame_07" />
+            <item android:id="@id/editor_fixedframe_hp_frame_08" android:title="@string/editor_fixedframe_hp_frame_08" />
+            <item android:id="@id/editor_fixedframe_hp_frame_09" android:title="@string/editor_fixedframe_hp_frame_09" />
+            <item android:id="@id/editor_fixedframe_hp_frame_10" android:title="@string/editor_fixedframe_hp_frame_10" />
+            <item android:id="@id/editor_fixedframe_hp_frame_11" android:title="@string/editor_fixedframe_hp_frame_11" />
+            <item android:id="@id/editor_fixedframe_hp_frame_12" android:title="@string/editor_fixedframe_hp_frame_12" />
+            <item android:id="@id/editor_fixedframe_plain_frame_00" android:title="@string/editor_fixedframe_plain_frame_00" />
+            <item android:id="@id/editor_fixedframe_plain_frame_01" android:title="@string/editor_fixedframe_plain_frame_01" />
+            <item android:id="@id/editor_fixedframe_plain_frame_02" android:title="@string/editor_fixedframe_plain_frame_02" />
+        </menu>
+    </item>
+    <item android:id="@id/editor_fixedframe_frame_square" android:title="@string/editor_fixedframe_frame_square" />
+    <item android:id="@id/editor_fixedframe_frame_offset" android:title="@string/editor_fixedframe_frame_offset" />
+    <item android:id="@id/editor_fixedframe_frame_strength" android:title="@string/editor_fixedframe_frame_strength" />
+    <item android:id="@id/editor_fixedframe_frame_colorized" android:title="@string/editor_fixedframe_frame_colorized" />
+    <item android:id="@id/editor_fixedframe_frame_flipping" android:title="@string/editor_fixedframe_frame_flipping" />
+</menu>

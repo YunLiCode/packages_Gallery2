@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.pano.widget.ScrollAdapterView android:enabled="true" android:id="@id/setup_scroll_list" android:focusable="true" android:focusableInTouchMode="true" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true" pano:orientation="vertical" pano:scrollCenterStrategy="fixedPercent" pano:scrollCenterOffsetPercent="50" pano:lowItemTransform="@anim/setup_scroll_adapter" pano:highItemTransform="@anim/setup_scroll_adapter"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pano="http://schemas.android.com/apk/res-auto" />

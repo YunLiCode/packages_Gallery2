@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/film_popupmenu">
+        <item android:id="@id/editor_film_preset" android:title="@string/editor_film_preset" />
+        <item android:id="@id/editor_film_sub_preset" android:title="@string/editor_film_sub_preset" />
+        <item android:id="@id/editor_film_style" android:title="@string/editor_film_style" />
+        <item android:id="@id/editor_film_center_size" android:title="@string/editor_film_center_size" />
+        <item android:id="@id/editor_film_saturation" android:title="@string/editor_film_saturation" />
+        <item android:id="@id/editor_film_blur_strength" android:title="@string/editor_film_blur_strength" />
+        <item android:id="@id/editor_film_grain" android:title="@string/editor_film_grain" />
+        <item android:id="@id/editor_film_style_strength" android:title="@string/editor_film_style_strength" />
+        <item android:id="@id/editor_film_brightness" android:title="@string/editor_film_brightness" />
+    </group>
+</menu>

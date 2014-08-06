@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.RotateImageView android:id="@id/undo_button" android:visibility="gone" android:layout_marginBottom="2.0dip" android:src="@drawable/ic_menu_revert_holo_dark" android:scaleType="center" android:layout_alignParentTop="true" android:layout_alignParentRight="true" style="@style/SwitcherButton"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

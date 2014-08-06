@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/tiltandshift_popupmenu">
+        <item android:id="@id/editor_tiltandshift_style" android:title="@string/editor_tiltandshift_style" />
+        <item android:id="@id/editor_tiltandshift_transition" android:title="@string/editor_tiltandshift_transition" />
+        <item android:id="@id/editor_tiltandshift_blur_strength" android:title="@string/editor_tiltandshift_blur_strength" />
+        <item android:id="@id/editor_tiltandshift_brightness" android:title="@string/editor_tiltandshift_brightness" />
+        <item android:id="@id/editor_tiltandshift_saturation" android:title="@string/editor_tiltandshift_saturation" />
+        <item android:id="@id/editor_tiltandshift_contrast" android:title="@string/editor_tiltandshift_contrast" />
+        <item android:id="@id/editor_tiltandshift_x_radius" android:title="@string/editor_tiltandshift_x_radius" />
+        <item android:id="@id/editor_tiltandshift_y_radius" android:title="@string/editor_tiltandshift_y_radius" />
+        <item android:id="@id/editor_tiltandshift_rotation_angle" android:title="@string/editor_tiltandshift_rotation_angle" />
+    </group>
+</menu>

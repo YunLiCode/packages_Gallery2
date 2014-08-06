@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/tuneimage_popupmenu">
+        <item android:id="@id/editor_tuneimage_brightness" android:title="@string/editor_tuneimage_brightness" />
+        <item android:id="@id/editor_tuneimage_ambiance" android:title="@string/editor_tuneimage_ambiance" />
+        <item android:id="@id/editor_tuneimage_contrast" android:title="@string/editor_tuneimage_contrast" />
+        <item android:id="@id/editor_tuneimage_saturation" android:title="@string/editor_tuneimage_saturation" />
+        <item android:id="@id/editor_tuneimage_whitebalance" android:title="@string/editor_tuneimage_whitebalance" />
+    </group>
+</menu>

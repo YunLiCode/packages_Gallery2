@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/centerfocus_popupmenu">
+        <item android:id="@id/editor_centerfocus_style" android:title="@string/editor_centerfocus_style" />
+        <item android:id="@id/editor_centerfocus_filter_strength" android:title="@string/editor_centerfocus_filter_strength" />
+        <item android:id="@id/editor_centerfocus_blur_strength" android:title="@string/editor_centerfocus_blur_strength" />
+        <item android:id="@id/editor_centerfocus_outer_brightness" android:title="@string/editor_centerfocus_outer_brightness" />
+        <item android:id="@id/editor_centerfocus_inner_brightness" android:title="@string/editor_centerfocus_inner_brightness" />
+        <item android:id="@id/editor_centerfocus_center_size" android:title="@string/editor_centerfocus_center_size" />
+    </group>
+</menu>

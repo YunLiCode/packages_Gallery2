@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.pano.widget.SteppedProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/width_setup_max" android:layout_centerHorizontal="true" app:textAppearanceActive="@style/SetupWraith.TextAppearance.ProgressBar.Active" app:textAppearanceCompleted="@style/SetupWraith.TextAppearance.ProgressBar.Completed"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

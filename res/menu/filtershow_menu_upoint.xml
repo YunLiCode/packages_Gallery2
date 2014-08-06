@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/editor_upoint_brightness" android:title="@string/editor_upoint_brightness" />
+    <item android:id="@id/editor_upoint_saturation" android:title="@string/editor_upoint_saturation" />
+    <item android:id="@id/editor_upoint_contrast" android:title="@string/editor_upoint_contrast" />
+</menu>

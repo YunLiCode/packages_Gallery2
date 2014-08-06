@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/retrolux_popupmenu">
+        <item android:id="@id/editor_retrolux_style" android:title="@string/editor_retrolux_style" />
+        <item android:id="@id/editor_retrolux_preset" android:title="@string/editor_retrolux_preset" />
+        <item android:id="@id/editor_retrolux_sub_preset" android:title="@string/editor_retrolux_sub_preset" />
+        <item android:id="@id/editor_retrolux_brightness" android:title="@string/editor_retrolux_brightness" />
+        <item android:id="@id/editor_retrolux_saturation" android:title="@string/editor_retrolux_saturation" />
+        <item android:id="@id/editor_retrolux_contrast" android:title="@string/editor_retrolux_contrast" />
+        <item android:id="@id/editor_retrolux_style_strength" android:title="@string/editor_retrolux_style_strength" />
+        <item android:id="@id/editor_retrolux_scratches" android:title="@string/editor_retrolux_scratches" />
+        <item android:id="@id/editor_retrolux_light_leaks" android:title="@string/editor_retrolux_light_leaks" />
+        <item android:id="@id/editor_retrolux_blur_strength" android:title="@string/editor_retrolux_blur_strength" />
+        <item android:id="@id/editor_retrolux_vignette_strength" android:title="@string/editor_retrolux_vignette_strength" />
+        <item android:id="@id/editor_retrolux_generic1" android:title="@string/editor_retrolux_generic1" />
+        <item android:id="@id/editor_retrolux_generic2" android:title="@string/editor_retrolux_generic2" />
+        <item android:id="@id/editor_retrolux_texture_option" android:title="@string/editor_retrolux_texture_option" />
+    </group>
+</menu>

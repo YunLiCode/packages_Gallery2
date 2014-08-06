@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/label_options" android:orderingFromXml="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/dogfood_settings">
+        <CheckBoxPreference android:title="@string/use_fast_shutter" android:key="useFastShutter" android:summary="@string/use_fast_shutter_description" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/use_realtime_alignment" android:key="useRealtimeAlignment" android:summary="@string/use_realtime_alignment_description" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/enable_location_provider" android:key="enableLocationProvider" android:summary="@string/enable_location_provider_description" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

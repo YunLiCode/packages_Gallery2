@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/details_popupmenu">
+        <item android:id="@id/editor_details_sharpening" android:title="@string/editor_details_sharpening" />
+        <item android:id="@id/editor_details_structure" android:title="@string/editor_details_structure" />
+    </group>
+</menu>

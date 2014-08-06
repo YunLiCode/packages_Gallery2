@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="table_drop_period">75000</integer>
+    <integer name="fast_drop">5000</integer>
+    <integer name="photo_pickup_duration">1500</integer>
+</resources>

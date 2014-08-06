@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/blackandwhite_popupmenu">
+        <item android:id="@id/editor_blackandwhite_style" android:title="@string/editor_blackandwhite_style" />
+        <item android:id="@id/editor_blackandwhite_color_style" android:title="@string/editor_blackandwhite_color_style" />
+        <item android:id="@id/editor_blackandwhite_brightness" android:title="@string/editor_blackandwhite_brightness" />
+        <item android:id="@id/editor_blackandwhite_contrast" android:title="@string/editor_blackandwhite_contrast" />
+        <item android:id="@id/editor_blackandwhite_grain" android:title="@string/editor_blackandwhite_grain" />
+        <item android:id="@id/editor_blackandwhite_filter_strength" android:visible="false" android:title="@string/editor_blackandwhite_filter_strength" />
+        <item android:id="@id/editor_blackandwhite_generic" android:visible="false" android:title="@string/editor_blackandwhite_generic" />
+    </group>
+</menu>

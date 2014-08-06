@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/vintage_popupmenu">
+        <item android:id="@id/editor_vintage_style" android:title="@string/editor_vintage_style" />
+        <item android:id="@id/editor_vintage_texture" android:title="@string/editor_vintage_texture" />
+        <item android:id="@id/editor_vintage_brightness" android:title="@string/editor_vintage_brightness" />
+        <item android:id="@id/editor_vintage_saturation" android:title="@string/editor_vintage_saturation" />
+        <item android:id="@id/editor_vintage_texture_strength" android:title="@string/editor_vintage_texture_strength" />
+        <item android:id="@id/editor_vintage_center_size" android:title="@string/editor_vintage_center_size" />
+        <item android:id="@id/editor_vintage_style_strength" android:title="@string/editor_vintage_style_strength" />
+    </group>
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/progress" android:paddingBottom="@dimen/indeterminate_bottom_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/indeterminate_progress" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/status_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/progress" android:layout_alignBottom="@id/progress" />
+</RelativeLayout>

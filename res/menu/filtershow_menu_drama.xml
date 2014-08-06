@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/drama_popupmenu">
+        <item android:id="@id/editor_drama_style" android:title="@string/editor_drama_style" />
+        <item android:id="@id/editor_drama_filter_strength" android:title="@string/editor_drama_filter_strength" />
+        <item android:id="@id/editor_drama_saturation" android:title="@string/editor_drama_saturation" />
+    </group>
+</menu>

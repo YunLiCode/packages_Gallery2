@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/autocorrect_popupmenu">
+        <item android:id="@id/editor_autocorrect_fix_exposure" android:title="@string/editor_autocorrect_fix_exposure" />
+        <item android:id="@id/editor_autocorrect_fix_tune_color" android:title="@string/editor_autocorrect_fix_tune_color" />
+    </group>
+</menu>
